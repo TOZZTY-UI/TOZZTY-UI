@@ -18,9 +18,9 @@ window.addEventListener('load', function() {
 });
 
 const textos = [
-    "Hola, este es un efecto tipo máquina de escribir ✔️",
-    "Ahora escribo otro texto diferente.",
-    "¡Listo! Aquí tienes el icono de Word: 📄"
+    "C:\\Users\\TOZZTY\\Desktop",
+    "C:\\Users\\TOZZTY\\Documents",
+    "C:\\Users\\TOZZTY\\Downloads"
 ];
 
 const typewriter = document.getElementById("typewriter");
@@ -33,13 +33,24 @@ function escribir() {
         charIndex++;
         setTimeout(escribir, 50);
     } else {
+        setTimeout(() => {
+            borrar();
+        }, 2500);
+    }
+}
+
+function borrar() {
+    if (typewriter.textContent.length > 0) {
+        typewriter.textContent = typewriter.textContent.slice(0, -1);
+        setTimeout(borrar, 30);
+    } else {
         textoIndex++;
-        if (textoIndex < textos.length) {
-            setTimeout(() => {
-                typewriter.textContent = "";
-                charIndex = 0;
-                escribir();
-            }, 8000);
+        if (textoIndex >= textos.length) {
+            textoIndex = 0;
         }
+        setTimeout(() => {
+            charIndex = 0;
+            escribir();
+        }, 1200); // Espera 1.2 segundos antes de escribir la siguiente oración
     }
 }
