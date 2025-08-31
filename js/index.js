@@ -38,7 +38,6 @@ function escribir() {
         }, 2500);
     }
 }
-
 function borrar() {
     if (typewriter.textContent.length > 0) {
         typewriter.textContent = typewriter.textContent.slice(0, -1);
