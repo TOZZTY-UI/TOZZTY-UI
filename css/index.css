@@ -1,24 +1,35 @@
-    body {
-      background: #111;
-      color: #0f0;
-      font-family: monospace;
-      font-size: 24px;
-      padding: 20px;
+body {
+    background-color: #1a1a1a;
+    color: #00ffcc;
+    font-family: monospace;
+    font-size: 22px;
+    padding: 40px;
+}
+
+.typewriter-container {
+    display: inline-block;
+    white-space: pre;
+    position: relative;
+}
+
+.caret {
+    display: inline-block;
+    width: 2px;
+    height: 1em;
+    background-color: #00ffcc;
+    margin-left: 2px;
+    animation: blink 0.7s steps(1) infinite;
+    vertical-align: bottom;
+}
+
+@keyframes blink {
+
+    0%,
+    100% {
+        opacity: 1;
     }
 
-    .typewriter {
-      border-right: 2px solid #0f0;
-      white-space: nowrap;
-      overflow: hidden;
-      display: inline-block;
-      animation: blink-caret 0.7s step-end infinite;
+    50% {
+        opacity: 0;
     }
-
-    @keyframes blink-caret {
-      0%, 100% {
-        border-color: transparent;
-      }
-      50% {
-        border-color: #0f0;
-      }
-    }
+}
