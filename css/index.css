@@ -50,7 +50,7 @@ body {
   position: absolute;
   inset: 0;
   border-radius: 50%;
-  --c:#0000, #f03355 1deg 120deg,#0000 121deg;
+  --c:#00000000, #f03355 1deg 120deg,#00000000 121deg;
   background:
     conic-gradient(from 0deg,  var(--c)) top right,
     conic-gradient(from 120deg,var(--c)) bottom,
@@ -67,7 +67,7 @@ body {
 .loader-wrapper {
   position: fixed;
   inset: 0;
-  background-color: #1a1a1a;
+  background-color: #000000;
   display: flex;
   justify-content: center;
   align-items: center;
