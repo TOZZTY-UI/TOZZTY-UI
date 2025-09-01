@@ -8,7 +8,7 @@ body {
 
 @font-face {
   font-family: 'minecraft';
-  src: url('/fonts/knd.otf') format('truetype');
+  src: url('/fonts/knd.ttf') format('truetype');
 }
 
 .typewriter-container {
