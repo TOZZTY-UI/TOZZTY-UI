@@ -1,32 +1,73 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6EB4&center=true&vCenter=true&width=435&lines=¡Hola!+Soy+Victor+Manuel;Analista+Programador+Junior;Buscando+oportunidades+en+Santiago+%F0%9F%87%A7%F0%9F%87%B6;Python+%7C+JavaScript+%7C+SQL;+¡Conecta+conmigo!+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Bienvenido%20A%20Mi%20Perfil&fontAlign=50&fontAlignY=50&animation=fadeIn&textBg=false&section=header&reversal=false&descAlignY=50&descAlign=50"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1F6EB4&center=true&vCenter=true&width=435&lines=Analista+Programador+Junior;Python+%7C+JavaScript+%7C+SQL;Siempre+Aprendiendo+algo+Nuevo" alt="Typing SVG" />
+  <br>
+  <h1>👋 ¡Hola! Soy <b>Victor Manuel Morales Arriagada</b></h1>
+  <img src="https://img.shields.io/badge/Santiago,%20Chile-🇨🇱-blue?style=flat-square" />
+  <br>
+  <b>Analista Programador | Desarrollador Web & Backend</b>
 </div>
 
-## 👋 ¡Hola! Soy **Victor Manuel Morales Arriagada**
-Analista Programador recién egresado en **Santiago, Chile** 🇨🇱. Apasionado por desarrollo web y backend con **Python**, **JavaScript** y **SQL**. Busco mi primer rol junior para aplicar mis conocimientos en sus proyectos. [LinkedIn](https://linkedin.com/in/victor-manuel-morales-arriagada) | [CV](https://drive.google.com/file/d/1C22J6Gta1Q-U3wvhP_RF0-0qT_HRScWF/view?usp=sharing) | ✉️ vmoralesarriagada.r@outlook.com
+<p align="center">
+  🚀 Siempre aprendiendo nuevas tecnologías de forma autodidacta usando IA, cursos, tutores, YouTube y StackOverflow.<br>
+  🎯 Busco mi primer rol junior para aplicar mis conocimientos en tus proyectos.
+</p>
 
-![TOZZTY-UI's Stats](https://github-readme-stats.vercel.app/api?username=TOZZTY-UI&theme=radical&show_icons=true&hide_border=false&count_private=true)<br>
-![TOZZTY-UI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TOZZTY-UI&theme=radical&show_icons=true&hide_border=false&layout=compact)
+<br>
 
-### 🚀 Proyectos Destacados
-- **[Mi App Web](https://github.com/victormanuel/proyecto1)**: Dashboard en React + Node.js con autenticación JWT. Desplegado en Vercel. [Demo](https://proyecto1.vercel.app)
-- **[Bot Python](https://github.com/victormanuel/bot-python)**: Automatización de tareas con Selenium y APIs. Maneja +500 requests/día.
-- **[API SQL](https://github.com/victormanuel/api-rest)**: Backend en Flask con PostgreSQL y Docker. Incluye tests unitarios.
 
-### 🛠️ Habilidades
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 📄 Sobre Mí
 
-### 📊 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=victormanuel&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+- 🎓 Analista Programador egresado del Instituto Profesional INACAP
+- 📧 Contacto: [vmoralesarriagada.r@outlook.com](mailto:vmoralesarriagada.r@outlook.com)
+- 📄 [Clickea aquí para ver mi CV](https://drive.google.com/file/d/1C22J6Gta1Q-U3wvhP_RF0-0qT_HRScWF/view?usp=sharing)
 
-### 🌟 Contribuciones Open Source
-Activo en issues "good first issue" y proyectos locales chilenos. ¡Bienvenido PRs!
+<br><br>
 
-[![Visitor Badge](https://visitor-badge.la代码cafe.com/badge?page_id=victormanuel.victormanuel)](https://visitor-badge.la代码cafe.com)
+## 🛠️ Tecnologías y Herramientas
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-239?logo=css3&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
+</p>
 
-¡Gracias por visitar! ☕
+<br><br>
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TOZZTY-UI&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="TOZZTY-UI's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOZZTY-UI&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="TOZZTY-UI's Top Languages" width="350" />
+</div>
+
+
+<br><br><br><br>
+
+
+
+# 💡 Proyectos que tengo en mente
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li style="padding: 5px 0;">📦 Sistema de inventario usando Django autoadministrable</li>
+  <li style="padding: 5px 0;">🍳 App de recetas de cocina con búsqueda por ingredientes</li>
+  <li style="padding: 5px 0;">💰 App de finanzas personales con gráficos y reportes</li>
+  <li style="padding: 5px 0;">📝 Web de blog personal con sección de comentarios y likes</li>
+  <li style="padding: 5px 0;">📲 App de seguimiento de hábitos con notificaciones diarias</li>
+  <li style="padding: 5px 0;">🌐 Web de portafolio interactivo con proyectos y contacto</li>
+  <li style="padding: 5px 0;">✅ App de lista de tareas con prioridades y fechas de vencimiento</li>
+  <li style="padding: 5px 0;">📰 Web de noticias personalizadas con filtros por categoría</li>
+</ul>
+
+---
+
+
+<div align="center">
+  <b>Hecho con ❤️ por Victor Manuel Morales Arriagada</b> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
