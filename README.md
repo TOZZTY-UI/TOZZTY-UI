@@ -3,10 +3,11 @@
 </div>
 
 ## 👋 ¡Hola! Soy **Victor Manuel Morales Arriagada**
-Analista Programador recién egresado en **Santiago, Chile** 🇨🇱. Apasionado por desarrollo web y backend con **Python**, **JavaScript** y **SQL**. Busco mi primer rol junior para aplicar metodologías ágiles en equipos innovadores. [LinkedIn](https://linkedin.com/in/victor-manuel-morales-arriagada) | [CV](https://tu-cv.pdf) | ✉️ victor.morales@ejemplo.com
+Analista Programador recién egresado en **Santiago, Chile** 🇨🇱. Apasionado por desarrollo web y backend con **Python**, **JavaScript** y **SQL**. Busco mi primer rol junior para aplicar mis conocimientos en sus proyectos. [LinkedIn](https://linkedin.com/in/victor-manuel-morales-arriagada) | [CV](https://drive.google.com/file/d/1C22J6Gta1Q-U3wvhP_RF0-0qT_HRScWF/view?usp=sharing) | ✉️ vmoralesarriagada.r@outlook.com
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormanuel&show_icons=true&theme=radical&locale=es) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormanuel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+![TOZZTY-UI's Stats](https://github-readme-stats.vercel.app/api?username=TOZZTY-UI&theme=radical&show_icons=true&hide_border=false&count_private=true) ![TOZZTY-UI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TOZZTY-UI&theme=radical&show_icons=true&hide_border=false&layout=compact)
+</div>
 ### 🚀 Proyectos Destacados
 - **[Mi App Web](https://github.com/victormanuel/proyecto1)**: Dashboard en React + Node.js con autenticación JWT. Desplegado en Vercel. [Demo](https://proyecto1.vercel.app)
 - **[Bot Python](https://github.com/victormanuel/bot-python)**: Automatización de tareas con Selenium y APIs. Maneja +500 requests/día.
