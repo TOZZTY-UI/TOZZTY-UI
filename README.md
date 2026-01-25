@@ -60,7 +60,7 @@
   <li style="padding: 5px 0;">📝 Web de blog personal con sección de comentarios y likes</li>
   <li style="padding: 5px 0;">📲 App de seguimiento de hábitos con notificaciones diarias</li>
   <li style="padding: 5px 0;">🌐 Web de portafolio interactivo con proyectos y contacto <img src="https://img.shields.io/badge/Proyecto-100%25-green?style=plastic"/></li> 
-
+  <li style="padding: 5px 0;">📲 Pagina Web con Usuarios Registrables o Logeados Para Jugar Un Casino Simulado</li>
   <li style="padding: 5px 0;">✅ App de lista de tareas con prioridades y fechas de vencimiento</li>
   <li style="padding: 5px 0;">📰 Web de noticias personalizadas con filtros por categoría</li>
 </ul>
