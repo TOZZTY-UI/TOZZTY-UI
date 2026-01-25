@@ -52,7 +52,7 @@
 
 
 
-# 💡 Proyectos que tengo en mente
+# 💡 Proyectos que tengo en 🧠
 <ul style="list-style-type: none; padding: 0; margin: 0;">
   <li style="padding: 5px 0;">📦 Sistema de inventario usando Django autoadministrable</li>
   <li style="padding: 5px 0;">🍳 App de recetas de cocina con búsqueda por ingredientes</li>
