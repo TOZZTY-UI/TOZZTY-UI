@@ -39,18 +39,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" />
 </p>
 
-<br><br>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOZZTY-UI&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="TOZZTY-UI's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOZZTY-UI&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="TOZZTY-UI's Top Languages" width="350" />
-</div>
-
-
-<br><br><br><br>
-
-
+<br>
 
 # 💡 Proyectos que tengo en 🧠
 <ul style="list-style-type: none; padding: 0; margin: 0;">
