@@ -41,18 +41,23 @@
 
 <br>
 
-# 💡 Proyectos que tengo en 🧠
-<ul style="list-style-type: none; padding: 0; margin: 0;">
-  <li style="padding: 5px 0;">📦 Sistema de inventario usando Django autoadministrable</li>
-  <li style="padding: 5px 0;">🍳 App de recetas de cocina con búsqueda por ingredientes</li>
-  <li style="padding: 5px 0;">💰 App de finanzas personales con gráficos y reportes</li>
-  <li style="padding: 5px 0;">📝 Web de blog personal con sección de comentarios y likes</li>
-  <li style="padding: 5px 0;">📲 App de seguimiento de hábitos con notificaciones diarias</li>
-  <li style="padding: 5px 0;">🌐 Web de portafolio interactivo con proyectos y contacto <img src="https://img.shields.io/badge/Proyecto-100%25-green?style=plastic"/></li> 
-  <li style="padding: 5px 0;">📲 Pagina Web con Usuarios Registrables o Logeados Para Jugar Un Casino Simulado</li>
-  <li style="padding: 5px 0;">✅ App de lista de tareas con prioridades y fechas de vencimiento</li>
-  <li style="padding: 5px 0;">📰 Web de noticias personalizadas con filtros por categoría</li>
-</ul>
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+| Proyecto | Tecnologías | Estado |
+| :--- | :---: | :---: |
+| **📝 Página Web Personal** | `HTML` `CSS` `JS` | [**Visita mi Portafolio Interactivo**](https://tozzty.cl) <img src="https://img.shields.io/badge/Proyecto-50%25-orange?style=plastic"/> |
+| **🌐 Página Web Moises** | `Bootstrap` `JS` | [**Visita La Web Hecha Por Mi**](https://saxofonistaparabodas.cl/) <img src="https://img.shields.io/badge/Proyecto-100%25-green?style=plastic"/> |
+| **📲 Casino Simulado** | `Django` `JS` | 🧠 *Idea* |
+| **📦 Sistema de Inventario** | `Django` `SQL` | 🧠 *Idea* |
+
+</div>
+
+### 💡 Ideas en Mente
+- 🍳 **App de Recetas:** Motor de búsqueda por ingredientes.
+- 💰 **Finanzas Personales:** Dashboard con reportes en tiempo real.
+- ✅ **Task Manager:** Gestión de prioridades y fechas.
 
 ---
 
