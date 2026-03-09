@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS-239?logo=css3&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge" />
@@ -49,8 +48,7 @@
 | :--- | :---: | :---: |
 | **📝 Página Web Personal** | `HTML` `CSS` `JS` | [**Visita mi Portafolio Interactivo**](https://tozzty.cl) <img src="https://img.shields.io/badge/Proyecto-50%25-orange?style=plastic"/> |
 | **🌐 Página Web Moises** | `Bootstrap` `JS` | [**Visita La Web Hecha Por Mi**](https://saxofonistaparabodas.cl/) <img src="https://img.shields.io/badge/Proyecto-100%25-green?style=plastic"/> |
-| **📲 Casino Simulado** | `Django` `JS` | 🧠 *Idea* |
-| **📦 Sistema de Inventario** | `Django` `SQL` | 🧠 *Idea* |
+| **📦 Sistema de Inventario** | `Django` `SQL` `Python` | 🧠 *Idea* |
 
 </div>
 
