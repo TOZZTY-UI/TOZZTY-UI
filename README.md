@@ -58,7 +58,7 @@
 
 | Proyecto | Tecnologías | Estado |
 | :--- | :---: | :---: |
-| **Saxeventos** | `Bootstrap` `JS` `HTML5` `CSS3` | [**Visita el sitio →**](https://saxofonistaparabodas.cl/) <img src="https://img.shields.io/badge/Publicado-100%25-brightgreen?style=plastic"/> |
+| **Saxeventos** | `Bootstrap` `JS` `HTML5` `CSS3` | [**Visita el sitio →**](https://saxeventos.cl/) <img src="https://img.shields.io/badge/Publicado-100%25-brightgreen?style=plastic"/> |
 | **Land & Asset Advisory** | `JS` `HTML5` `CSS3` `N8N` | [**Visita el sitio →**](https://www.bgichile.cl/) <img src="https://img.shields.io/badge/Publicado-100%25-brightgreen?style=plastic"/> |
 | **🤔 Próximos proyectos…** | — | *Pensando qué construir* |
 
