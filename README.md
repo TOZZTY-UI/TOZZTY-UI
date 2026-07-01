@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=gradient&text=Victor%20Morales&fontAlign=50&fontAlignY=50&animation=fadeIn&textBg=false&section=header"/>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F98A3&center=true&vCenter=true&width=480&lines=Analista+Programador+Junior;Python+%7C+JavaScript+%7C+Astro;MongoDB+%7C+SQL+%7C+Bootstrap;Siempre+Aprendiendo+algo+Nuevo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4F98A3&center=true&vCenter=true&width=480&lines=Analista+Programador+Junior;Python+%7C+JavaScript+%7C+Astro;MongoDB+[...]"  
   <br><br>
   <h1>👋 ¡Hola! Soy <b>Victor Manuel Morales Arriagada</b></h1>
   <img src="https://img.shields.io/badge/Santiago%2C%20Chile-%F0%9F%87%A8%F0%9F%87%B1-blue?style=flat-square" />
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" />
@@ -60,6 +61,7 @@
 | :--- | :---: | :---: |
 | **Saxeventos** | `Bootstrap` `JS` `HTML5` `CSS3` | [**Visita el sitio →**](https://saxeventos.cl/) <img src="https://img.shields.io/badge/Publicado-100%25-brightgreen?style=plastic"/> |
 | **Land & Asset Advisory** | `JS` `HTML5` `CSS3` `N8N` | [**Visita el sitio →**](https://www.bgichile.cl/) <img src="https://img.shields.io/badge/Publicado-100%25-brightgreen?style=plastic"/> |
+| **Alto Las Condes Studio** | `Astro` `Tailwind` | <img src="https://img.shields.io/badge/Progreso-50%25-yellow?style=plastic"/> |
 | **🤔 Próximos proyectos…** | — | *Pensando qué construir* |
 
 </div>
